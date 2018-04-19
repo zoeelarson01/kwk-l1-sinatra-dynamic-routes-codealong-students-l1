@@ -99,4 +99,4 @@ Using the example dynamic route that we included in the code-along as a template
 
 + A dynamic route starting with `/multiply` that accepts two params (num1 and num2) and returns the product of the two numbers.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-dynamic-routes-codealong' title='Dynamic Routes in Sinatra'>Dynamic Routes in Sinatra</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Dynamic Routes in Sinatra</p>
